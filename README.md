@@ -13,5 +13,4 @@ Welcome to **Awesome Project Name**! This project is designed to [briefly descri
 
 ## 🎥 Demo
 
-Check out this quick demo of the project in action:
-
+![To-Do List Demo](https://media.giphy.com/media/your-demo-gif-url.gif)
