@@ -3,7 +3,7 @@
 Hi, I’m **Bryant Herson Diaz**, and this is my personal space where I share my [work/projects/passions/ideas]. Whether you're here to explore my portfolio, learn more about my journey, or connect with me, I’m thrilled to have you!
 
 ### **What You’ll Find Here**
-- **About Me**: Get to know my background, skills, and what drives me. [Link to About page]
+- **About Me**: Get to know my background, skills, and what drives me. [www.myzevnet.online]
 - **Portfolio/Projects**: Explore my latest work, including [specific projects, e.g., "web development," "design projects," "writing samples"]. [www.myzevnet.online]
 - **Blog/Insights**: Dive into my thoughts on [specific topics, e.g., "technology," "creativity," "personal growth"]. [www.myzevnet.online]
 - **Contact Me**: Let’s connect! Whether it’s for collaboration, feedback, or just to say hello, I’d love to hear from you. [www.myzevnet.online]
