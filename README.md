@@ -4,9 +4,9 @@ Hi, I’m **Bryant Herson Diaz**, and this is my personal space where I share my
 
 ### **What You’ll Find Here**
 - **About Me**: Get to know my background, skills, and what drives me. [Link to About page]
-- **Portfolio/Projects**: Explore my latest work, including [specific projects, e.g., "web development," "design projects," "writing samples"]. [Link to Portfolio]
-- **Blog/Insights**: Dive into my thoughts on [specific topics, e.g., "technology," "creativity," "personal growth"]. [Link to Blog]
-- **Contact Me**: Let’s connect! Whether it’s for collaboration, feedback, or just to say hello, I’d love to hear from you. [Link to Contact page]
+- **Portfolio/Projects**: Explore my latest work, including [specific projects, e.g., "web development," "design projects," "writing samples"]. [www.myzevnet.online]
+- **Blog/Insights**: Dive into my thoughts on [specific topics, e.g., "technology," "creativity," "personal growth"]. [www.myzevnet.online]
+- **Contact Me**: Let’s connect! Whether it’s for collaboration, feedback, or just to say hello, I’d love to hear from you. [www.myzevnet.online]
 
 ### **Why Explore My Website?**
 - **Quality and Passion**: Everything I create is driven by my dedication to [specific values, e.g., "innovation," "excellence," "authenticity"].
@@ -15,6 +15,6 @@ Hi, I’m **Bryant Herson Diaz**, and this is my personal space where I share my
 
 ### **Let’s Stay Connected**
 - Follow me on [social media platforms, e.g., LinkedIn, Twitter, Instagram] for updates and insights.
-- Subscribe to my newsletter for exclusive content and updates. [Link to Newsletter]
+- Subscribe to my newsletter for exclusive content and updates. [www.myzevnet.online]
 
 Thank you for visiting my website. I hope you find inspiration, value, or simply enjoy your time here. Let’s create something amazing together!
