@@ -1,4 +1,4 @@
-# 🚀 Awesome Project Name
+# 🚀 Awesome Project
 
 ![GitHub License](https://img.shields.io/github/license/your-username/your-repo?color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
