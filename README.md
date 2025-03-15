@@ -10,12 +10,3 @@
 Welcome to **Awesome Project Name**! This project is designed to [briefly describe your project's purpose]. Whether you're a developer, designer, or just curious, this project has something for everyone. Dive in and explore!
 
 ---
-
-## 🎥 Demo
-
-![To-Do List Demo](https://media.giphy.com/media/your-demo-gif-url.gif)
-
-
-## 🌐 Live Demo
-
-[Try it out here!](https://your-username.github.io/your-repo-name)
